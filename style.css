@@ -1,0 +1,23 @@
+body {
+    background-color: chocolate;
+    font-family: Arial;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px dotted white;
+    padding: 10px 10px 10px 10px;
+}
+
+h1 {
+    color: white;
+    font-family: Arial;
+}
+
+h2 {
+    color: white;
+    font-family: Arial;
+}
+
+p {
+    color: white;
+    font-family: Arial;
+}
